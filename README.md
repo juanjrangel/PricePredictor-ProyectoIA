@@ -1,4 +1,4 @@
-# PricePredictor-ProyectoIA
+# Modelado y Segmentación de Vehículos Usados de la India
 <img src="multimedia/Banner.jpeg" width="800" height="300">
 
 ## Autores:

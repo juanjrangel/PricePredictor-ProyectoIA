@@ -1,5 +1,5 @@
 # PricePredictor-ProyectoIA
-<img src="multimedia/banner.jpeg" width="800" height="300">
+<img src="multimedia/Banner.jpeg" width="800" height="300">
 
 ## Autores:
 

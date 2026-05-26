@@ -1,5 +1,5 @@
 # Modelado y Segmentación de Vehículos Usados de la India
-<img src="multimedia/Banner.jpeg" width="800" height="300">
+<img src="multimedia/banner.png" width="800" height="300">
 
 ## Autores:
 
